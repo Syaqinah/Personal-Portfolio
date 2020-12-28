@@ -17,6 +17,15 @@ p
 	background-color: #F5FFFA
 }
 
+li
+{
+	font-family:Papyrus, fantasy;
+	text-align: center;
+	font-size:  15px;
+	color: black;
+	background-color: #FFF0F5
+}
+
 h1
 {
 	font-family: 'Bungee Inline', cursive;
@@ -59,12 +68,8 @@ h3, a:hover, a:active
 }
 }
 
-li
-{
-	
-	font-family:Papyrus, fantasy;
-	text-align: center;
-	font-size:  15px;
-	color: black;
-	background-color: #F5FFFA
-}
+
+
+
+
+
